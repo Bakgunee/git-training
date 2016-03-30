@@ -3,6 +3,10 @@
  *
  * Copyright (C) 2016, Taeung Song <treeze.taeung@gmail.com>
  *
+ Previous basic code hadn't data structures.
+And functions they contain were ambiguous
+so change this infrastructure code following normal way
+already known.
  */
 #include <stdio.h>
 
